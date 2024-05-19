@@ -3,6 +3,10 @@
     {
       "fromClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP"
+    },
+    {
+      "fromClass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant"
     }
   ]
 }
