@@ -1,0 +1,8 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP"
+    }
+  ]
+}
