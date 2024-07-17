@@ -3,6 +3,10 @@
     {
       "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AADeinosuchus/Dinos/DeinosuchusAA_Character_BP.DeinosuchusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP"
     }
   ]
 }
