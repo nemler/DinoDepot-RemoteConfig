@@ -15,6 +15,10 @@
     {
       "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
       "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
+    },
+    {
+      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
     }
   ]
 }

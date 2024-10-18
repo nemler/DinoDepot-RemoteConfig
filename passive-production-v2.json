@@ -55,7 +55,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 1800.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -97,7 +97,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 1800.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -368,6 +368,30 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 3600.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae_ASA.PrimalItemConsumable_Veggie_TurtleAlgae_ASA",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 1,
